@@ -1,0 +1,23 @@
+---SARS-CoV-2- Spike protein Analysis---
+Total Length:1273 amino acids
+Amino acids compositions-->
+A: 79
+C: 40
+D: 62
+E: 48
+F: 77
+G: 82
+H: 17
+I: 76
+K: 61
+L: 108
+M: 14
+N: 88
+P: 58
+Q: 62
+R: 42
+S: 99
+T: 97
+V: 97
+W: 12
+Y: 54
